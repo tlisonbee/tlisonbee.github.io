@@ -1,0 +1,11 @@
+
+# AWS Creds
+
+
+## Unset
+```
+unset AWS_SECURITY_TOKEN
+unset AWS_SECRET_ACCESS_KEY
+unset AWS_SESSION_TOKEN 
+unset AWS_ACCESS_KEY_ID
+```
