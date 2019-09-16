@@ -11,4 +11,6 @@ Favorite programs are "the Score" and "Club Mod".
 
 [Philip Glass](https://en.wikipedia.org/wiki/Philip_Glass)
 
+## Favorite Bands
 
+Led Zeppelin, Radiohead, Pixies, Nirvana, Talking Heads, Pink Floyd
