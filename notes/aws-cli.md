@@ -34,3 +34,12 @@ aws autoscaling describe-auto-scaling-groups \
 --query 'AutoScalingGroups[*].[CreatedTime,AutoScalingGroupName,Instances.length(@)]' \
 --output text | sort
 ```
+
+# Find all EBS Snapshots with a particular tag and add another tag
+``` bash
+for snapshot in `aws ec2 describe-snapshots  --filters "Name=tag:MyExistingTagName,Values=MyExistingTagValue" --query 'Snapshots[*].SnapshotId' --output text  | xargs`; 
+do 
+  echo $snapshot; 
+  aws ec2 create-tags --resources $snapshot --tags 'Key=AdditionalTagName,Value=AdditionalTagValue' ; 
+done
+```
