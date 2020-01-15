@@ -43,3 +43,14 @@ do
   aws ec2 create-tags --resources $snapshot --tags 'Key=AdditionalTagName,Value=AdditionalTagValue' ; 
 done
 ```
+
+# Elastic Search Research
+
+``` bash
+for name in `aws es list-domain-names  --query 'DomainNames[*].DomainName' --output text | xargs`
+do 
+    echo "======== $name ===========" ; 
+    aws es  describe-elasticsearch-domains  --domain-names $name 
+    aws es list-tags --arn "arn:aws:es:us-east-1:1234567890:domain/$name"
+done > my-report.txt
+```
