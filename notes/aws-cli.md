@@ -54,3 +54,12 @@ do
     aws es list-tags --arn "arn:aws:es:us-east-1:1234567890:domain/$name"
 done > my-report.txt
 ```
+
+# Delete all Backups for a DynamoDB Table
+
+``` bash
+for arn in `aws dynamodb list-backups --table-name "TABLENAME" --backup-type ALL --output text --query 'BackupSummaries[*].BackupArn' | xargs`
+do
+    aws dynamodb delete-backup --backup-arn "${arn}"
+done
+```
