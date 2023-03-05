@@ -13,6 +13,7 @@
 
 ## Fun
 
+Meditation
 Running
 
 ## Blogs I like to Read
