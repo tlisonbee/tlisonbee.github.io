@@ -7,7 +7,7 @@
 
 ## Organizations
 
-[Red Lizard Running Club](http://www.redlizardrunning.com/)
+<!-- [Red Lizard Running Club](http://www.redlizardrunning.com/) -->
 
 [Oregon Mycological Society](https://www.wildmushrooms.org/)
 
