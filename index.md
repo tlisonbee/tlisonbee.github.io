@@ -13,8 +13,9 @@
 
 ## Fun
 
-Meditation
-Running
+- Meditation
+- Running
+- Birding
 
 ## Blogs I like to Read
 
