@@ -5,7 +5,7 @@
 
 `Slide Three Finders Up on Trackpad`: Opens Mission Control, at top of screen you can manage Desktops.
 
-`Control + Left/Right Arrow`: Switch between desktops.
+`Control + Left/Right Arrow`: Switch between desktops (or slide three finders on trackpage left/right).
 
 ## Finder
 
