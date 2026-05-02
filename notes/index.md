@@ -22,6 +22,8 @@
 
 [Log4j](log4j)
 
+[MacOS](macos)
+
 [SignalFx](signalfx)
 
 [SSH](ssh)
