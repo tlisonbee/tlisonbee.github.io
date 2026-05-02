@@ -1,4 +1,12 @@
 
+## Navigation
+
+`Control + Down Arrow`: View all Windows of the current application.
+
+`Slide Three Finders Up on Trackpad`: Opens Mission Control, at top of screen you can manage Desktops.
+
+`Control + Left/Right Arrow`: Switch between desktops.
+
 ## Finder
 
 Quick Look: Highlight any file (photo, PDF, video) and hit `Space` to preview it instantly without opening an app.
