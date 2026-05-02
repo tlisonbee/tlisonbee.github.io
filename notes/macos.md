@@ -13,7 +13,7 @@ Trash: Use `Cmd + Delete` to move the selected item to the Trash.
 
 Enabling Reduce Motion makes desktop switching and other transitions feel faster.
 
-# Click the `Apple Menu ()` and select System Settings.
-# Navigate to `Accessibility` in the left sidebar.
-# Click on `Display`.
-# Toggle the switch for Reduce motion.
+1. Click the `Apple Menu ()` and select System Settings.
+1. Navigate to `Accessibility` in the left sidebar.
+1. Click on `Display`.
+1. Toggle the switch for Reduce motion.
