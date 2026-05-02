@@ -7,6 +7,8 @@ Quick Look: Highlight any file (photo, PDF, video) and hit `Space` to preview it
 
 Trash: Use `Cmd + Delete` to move the selected item to the Trash.
 
+View All Files: Use `Cmd + Shift + .` to see files whose names start with a period.
+
 ## Settings
 
 ### Enable Reduce Motion
