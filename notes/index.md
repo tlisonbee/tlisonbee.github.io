@@ -1,6 +1,6 @@
 
 
-# Miscellaneous Notes
+# Miscellaneous Technical Notes
 
 [AWS CLI](aws-cli)
 
