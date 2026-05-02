@@ -3,7 +3,7 @@
 
 `Control + Down Arrow`: View all Windows of the current application.
 
-`Slide Three Finders Up on Trackpad`: Opens Mission Control, at top of screen you can manage Desktops.
+`Slide Three Finders Up on Trackpad` or `Control + Up Arrow`: Opens Mission Control, at top of screen you can manage Desktops.
 
 `Control + Left/Right Arrow`: Switch between desktops (or slide three finders on trackpage left/right).
 
